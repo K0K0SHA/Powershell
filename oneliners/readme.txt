@@ -1,7 +1,7 @@
 I recommend pasting these one-liners into your terminal or your code instead of running them on their own. You can always change them into scripts by changing the .txt extension to a .ps1 extension.
 
 TODO CATALOG:
-[ ] Get Execution Policy
+[X] Get Execution Policy
 Get-ExecutionPolicy
 [ ] Set Execution Policy to allow remote signed scripts for the duration of the session
  Set-ExecutionPolicy RemoteSigned -Scope Process
